@@ -1,1 +1,1 @@
-# appsync-client-sutdy
+# studying the rust language
